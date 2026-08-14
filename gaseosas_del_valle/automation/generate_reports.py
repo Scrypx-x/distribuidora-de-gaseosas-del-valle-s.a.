@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'campus2023',
-    'password': 'gaseosas_10',
+    'password': 'campus2023',
     'database': 'gaseosas_del_valle'
 }
 
